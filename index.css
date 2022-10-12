@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    background-color: #1B244A
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+#home{
+    color: white;
+    text-align: center;
+    
+}
+.one{
+    background-color: transparent;
+    color : white;
+    padding: 3px;
+    font-size: 10px;
+    text-align: left;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+
+    
+    
+}
+#guest{
+    color: white;
+    text-align: center;
+}
+.buttons{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 15px;
+  margin-left: 2px  
+}
+.score{
+    background-color: black;
+   
+    text-align: center;
+    padding: 4px;
+   
+width: 100px;
+height: 120px;
+left: 100px;
+top: 125px;
+justify-content: center;
+align-items: center;
+
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+/* or 141% */
+
+text-align: center;
+
+color: #F94F6D;
+
+}
+
